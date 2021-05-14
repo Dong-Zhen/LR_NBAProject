@@ -35,6 +35,6 @@ For my stakeholders I randomly sampled a player to predict his score with the fi
 
 ### Links
 
-- [Final Code]('https://github.com/Dong-Zhen/LR_NBAProject/blob/main/Final%20Code.ipynb')
-- [Presentation]('https://github.com/Dong-Zhen/LR_NBAProject/blob/main/Predicting%20FD%20Score.pdf')
-- [Write Up]('https://github.com/Dong-Zhen/LR_NBAProject')
+- [Final Code](https://github.com/Dong-Zhen/LR_NBAProject/blob/main/Final%20Code.ipynb)
+- [Presentation](https://github.com/Dong-Zhen/LR_NBAProject/blob/main/Predicting%20FD%20Score.pdf)
+- [Write Up](https://github.com/Dong-Zhen/LR_NBAProject)
